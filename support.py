@@ -71,3 +71,20 @@ $ heroku update
 
 heroku login on terminal
 provide your login credentials
+
+
+#push to github
+git init
+git add .
+git commit -m "incomeexpenseapi" -m"This is an api for income and expense for user"
+git push
+git remote add origin git@github.com:ayemlojoseph/incomexpense.git
+git remote -v
+git push -f origin master
+
+
+#creating app on heroku cli
+
+heroku create appname
+
+git push heroku master
