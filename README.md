@@ -1,0 +1,2 @@
+# incomexpense
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c8eb969052ce462fad3fe35b77d7b7cc)](https://app.codacy.com/manual/ayemlojoseph/incomexpense?utm_source=github.com&utm_medium=referral&utm_content=ayemlojoseph/incomexpense&utm_campaign=Badge_Grade_Dashboard)
